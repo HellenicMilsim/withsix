@@ -1,0 +1,7 @@
+# Hellenic Milsim Repo Config
+# See https://www.hellenic-milsim.community
+# See https://withsix.readthedocs.io/en/latest/client/custom_repositories/
+
+#:image: http://url/to/image.png
+#:image_large: http://url/to/image_full.png
+:name: “Name of repository”
